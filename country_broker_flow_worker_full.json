@@ -1,0 +1,790 @@
+{
+  "by_country": {
+    "afghanistan": {
+      "brokers": [
+        "PUPrime",
+        "VT Markets"
+      ],
+      "display_name": "Afghanistan",
+      "last_updated": "2025-10-04"
+    },
+    "australia": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "Star Trader"
+      ],
+      "display_name": "Australia",
+      "last_updated": "2025-10-04"
+    },
+    "bahamas": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Bahamas",
+      "last_updated": "2025-06-05"
+    },
+    "bahrain": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Bahrain",
+      "last_updated": "2024-06-04"
+    },
+    "belgium": {
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Belgium"
+    },
+    "bermuda": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Star Trader"
+      ],
+      "display_name": "Bermuda",
+      "last_updated": "2025-04-28"
+    },
+    "brunei": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Brunei",
+      "last_updated": "2024-04-12"
+    },
+    "cambodia": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Cambodia",
+      "last_updated": "2024-04-12"
+    },
+    "cameroon": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Cameroon",
+      "last_updated": "2024-06-04"
+    },
+    "canada (non ontario)": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Canada (NON Ontario)",
+      "last_updated": "2024-11-30"
+    },
+    "canada (ontario)": {
+      "brokers": [
+        "PUPrime",
+        "VT Markets"
+      ],
+      "display_name": "Canada (Ontario)",
+      "last_updated": "2025-07-31"
+    },
+    "canada (rare case: client wants regulated broker)": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Canada (Rare Case: Client wants regulated broker)",
+      "last_updated": "2024-11-30"
+    },
+    "czech republic": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Czech Republic",
+      "last_updated": "2024-09-12"
+    },
+    "denmark": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Denmark",
+      "last_updated": "2024-04-12"
+    },
+    "egypt (africa)": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Egypt (Africa)",
+      "last_updated": "2024-02-12"
+    },
+    "ethiopia": {
+      "brokers": [
+        "PUPrime",
+        "Axi",
+        "Vantage"
+      ],
+      "display_name": "Ethiopia",
+      "last_updated": "2024-06-04"
+    },
+    "france (europe)": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "HFM"
+      ],
+      "display_name": "France (Europe)",
+      "last_updated": "2024-11-30"
+    },
+    "germany": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Germany",
+      "last_updated": "2025-02-20"
+    },
+    "ghana": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM"
+      ],
+      "display_name": "Ghana"
+    },
+    "greece": {
+      "brokers": [
+        "PUPrime"
+      ],
+      "display_name": "Greece",
+      "last_updated": "2025-02-17"
+    },
+    "guyana": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Guyana",
+      "last_updated": "2024-12-23"
+    },
+    "hong kong": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM (Last Resort)",
+        "Vantage/VT"
+      ],
+      "display_name": "Hong Kong",
+      "last_updated": "2024-11-30"
+    },
+    "india": {
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT",
+        "HFM"
+      ],
+      "display_name": "India",
+      "last_updated": "2025-04-30"
+    },
+    "indonesia": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Indonesia",
+      "last_updated": "2024-02-12"
+    },
+    "ireland": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Ireland",
+      "last_updated": "2024-06-04"
+    },
+    "israel": {
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Israel"
+    },
+    "italy": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Italy",
+      "last_updated": "2024-06-04"
+    },
+    "jamaica": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Jamaica",
+      "last_updated": "2025-04-29"
+    },
+    "japan": {
+      "brokers": [
+        "PUPrime",
+        "VT Markets"
+      ],
+      "display_name": "Japan",
+      "last_updated": "2024-09-12"
+    },
+    "jordan": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Jordan",
+      "last_updated": "2024-06-04"
+    },
+    "kenya": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "Vantage/VT",
+        "HFM"
+      ],
+      "display_name": "Kenya"
+    },
+    "kuwait": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "Vantage/VT"
+      ],
+      "display_name": "Kuwait",
+      "last_updated": "2024-12-17"
+    },
+    "malaysia": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Vantage/VT",
+        "HFM"
+      ],
+      "display_name": "Malaysia",
+      "last_updated": "2025-05-13"
+    },
+    "malaysia (pj)": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "VT Markets",
+        "HFM"
+      ],
+      "display_name": "Malaysia (PJ)",
+      "last_updated": "2025-05-13"
+    },
+    "malaysia (selangor seri kembangan)": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "VT Markets",
+        "HFM"
+      ],
+      "display_name": "Malaysia (Selangor Seri Kembangan)",
+      "last_updated": "2025-05-13"
+    },
+    "maldives": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "VT Markets"
+      ],
+      "display_name": "Maldives",
+      "last_updated": "2025-03-06"
+    },
+    "mali": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM"
+      ],
+      "display_name": "Mali",
+      "last_updated": "2024-09-12"
+    },
+    "mexico": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Mexico",
+      "last_updated": "2025-04-30"
+    },
+    "morocco": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Morocco",
+      "last_updated": "2024-06-04"
+    },
+    "mozanbique": {
+      "brokers": [
+        "Axi"
+      ],
+      "display_name": "Mozanbique",
+      "last_updated": "2024-06-04"
+    },
+    "netherlands": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Netherlands",
+      "last_updated": "2025-12-06"
+    },
+    "new zealand": {
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "New Zealand",
+      "last_updated": "2024-02-12"
+    },
+    "nigeria": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "HFM"
+      ],
+      "display_name": "Nigeria",
+      "last_updated": "2024-02-12"
+    },
+    "norway": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Axi",
+        "Vantage/VT"
+      ],
+      "display_name": "Norway",
+      "last_updated": "2024-10-12"
+    },
+    "oman": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Oman"
+    },
+    "philippines": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Philippines",
+      "last_updated": "2025-11-13"
+    },
+    "portugal": {
+      "brokers": [
+        "PUPrime",
+        "Vantage"
+      ],
+      "display_name": "Portugal",
+      "last_updated": "2025-10-05"
+    },
+    "qatar": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Qatar"
+    },
+    "saudi arabia": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Saudi Arabia",
+      "last_updated": "2024-04-12"
+    },
+    "singapore": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "HFM"
+      ],
+      "display_name": "Singapore",
+      "last_updated": "2024-11-30"
+    },
+    "slovakia": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Slovakia"
+    },
+    "somalia": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Somalia"
+    },
+    "south africa": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "South Africa",
+      "last_updated": "2024-02-12"
+    },
+    "sri lanka": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Sri Lanka",
+      "last_updated": "2024-06-04"
+    },
+    "sweden": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Axi",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Sweden",
+      "last_updated": "2024-02-12"
+    },
+    "taiwan": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Taiwan",
+      "last_updated": "2024-01-12"
+    },
+    "tanzania": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Axi",
+        "Vantage"
+      ],
+      "display_name": "Tanzania",
+      "last_updated": "2025-04-30"
+    },
+    "thailand": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Thailand",
+      "last_updated": "2024-02-12"
+    },
+    "turkey": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Turkey",
+      "last_updated": "2025-11-04"
+    },
+    "uganda": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "Uganda"
+    },
+    "united arab emirates": {
+      "brokers": [
+        "Ava",
+        "Axi",
+        "PUPrime",
+        "HFM",
+        "Vantage/VT"
+      ],
+      "display_name": "United Arab Emirates",
+      "last_updated": "2024-04-12"
+    },
+    "united kingdom": {
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "United Kingdom",
+      "last_updated": "2024-04-12"
+    },
+    "vietnam": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Vietnam",
+      "last_updated": "2024-02-12"
+    },
+    "zimbabwe": {
+      "brokers": [
+        "PUPrime",
+        "Axi",
+        "Vantage/VT"
+      ],
+      "display_name": "Zimbabwe",
+      "last_updated": "2024-06-04"
+    },
+    "poland": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage"
+      ],
+      "display_name": "Poland",
+      "last_updated": "2025-05-13"
+    },
+    "switzerland": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Switzerland",
+      "last_updated": "2025-05-20"
+    },
+    "trinidad": {
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
+      "display_name": "Trinidad",
+      "last_updated": "2025-05-20"
+    },
+    "kosovo": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Kosovo",
+      "last_updated": "2025-05-19"
+    },
+    "suriname": {
+      "brokers": [
+        "PUPrime",
+        "Axi"
+      ],
+      "display_name": "Suriname",
+      "last_updated": "2025-05-19"
+    },
+    "pakistan": {
+      "brokers": [
+        "Axi",
+        "PUPrime"
+      ],
+      "display_name": "Pakistan",
+      "last_updated": "2025-05-21"
+    },
+    "austria": {
+      "brokers": [
+        "PUPrime",
+        "Axi",
+        "Vantage/VT"
+      ],
+      "display_name": "Austria",
+      "last_updated": "2025-05-21"
+    },
+    "estonia": {
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Vantage/VT"
+      ],
+      "display_name": "Estonia"
+    },
+    "lithuania": {
+      "brokers": [
+        "PUPrime",
+        "Vantage"
+      ],
+      "display_name": "Lithuania"
+    },
+    "cyprus": {
+      "brokers": [
+        "Ava",
+        "PUPrime",
+        "Vantage"
+      ],
+      "display_name": "Cyprus"
+    }
+  },
+  "by_code": {
+    "93": "afghanistan",
+    "+93": "afghanistan",
+    "61": "australia",
+    "+61": "australia",
+    "1242": "bahamas",
+    "+1242": "bahamas",
+    "973": "bahrain",
+    "+973": "bahrain",
+    "32": "belgium",
+    "+32": "belgium",
+    "1441": "bermuda",
+    "+1441": "bermuda",
+    "673": "brunei",
+    "+673": "brunei",
+    "855": "cambodia",
+    "+855": "cambodia",
+    "237": "cameroon",
+    "+237": "cameroon",
+    "1": "canada (rare case: client wants regulated broker)",
+    "+1": "canada (rare case: client wants regulated broker)",
+    "420": "czech republic",
+    "+420": "czech republic",
+    "45": "denmark",
+    "+45": "denmark",
+    "20": "egypt (africa)",
+    "+20": "egypt (africa)",
+    "251": "ethiopia",
+    "+251": "ethiopia",
+    "33": "france (europe)",
+    "+33": "france (europe)",
+    "49": "germany",
+    "+49": "germany",
+    "233": "ghana",
+    "+233": "ghana",
+    "30": "greece",
+    "+30": "greece",
+    "592": "guyana",
+    "+592": "guyana",
+    "852": "hong kong",
+    "+852": "hong kong",
+    "91": "india",
+    "+91": "india",
+    "62": "indonesia",
+    "+62": "indonesia",
+    "353": "ireland",
+    "+353": "ireland",
+    "972": "israel",
+    "+972": "israel",
+    "39": "italy",
+    "+39": "italy",
+    "1876": "jamaica",
+    "+1876": "jamaica",
+    "81": "japan",
+    "+81": "japan",
+    "962": "jordan",
+    "+962": "jordan",
+    "254": "kenya",
+    "+254": "kenya",
+    "965": "kuwait",
+    "+965": "kuwait",
+    "60": "malaysia (selangor seri kembangan)",
+    "+60": "malaysia (selangor seri kembangan)",
+    "960": "maldives",
+    "+960": "maldives",
+    "223": "mali",
+    "+223": "mali",
+    "52": "mexico",
+    "+52": "mexico",
+    "212": "morocco",
+    "+212": "morocco",
+    "258": "mozanbique",
+    "+258": "mozanbique",
+    "31": "netherlands",
+    "+31": "netherlands",
+    "64": "new zealand",
+    "+64": "new zealand",
+    "234": "nigeria",
+    "+234": "nigeria",
+    "47": "norway",
+    "+47": "norway",
+    "968": "oman",
+    "+968": "oman",
+    "63": "philippines",
+    "+63": "philippines",
+    "351": "portugal",
+    "+351": "portugal",
+    "974": "qatar",
+    "+974": "qatar",
+    "966": "saudi arabia",
+    "+966": "saudi arabia",
+    "65": "singapore",
+    "+65": "singapore",
+    "421": "slovakia",
+    "+421": "slovakia",
+    "252": "somalia",
+    "+252": "somalia",
+    "27": "south africa",
+    "+27": "south africa",
+    "94": "sri lanka",
+    "+94": "sri lanka",
+    "46": "sweden",
+    "+46": "sweden",
+    "886": "taiwan",
+    "+886": "taiwan",
+    "255": "tanzania",
+    "+255": "tanzania",
+    "66": "thailand",
+    "+66": "thailand",
+    "90": "turkey",
+    "+90": "turkey",
+    "256": "uganda",
+    "+256": "uganda",
+    "971": "united arab emirates",
+    "+971": "united arab emirates",
+    "44": "united kingdom",
+    "+44": "united kingdom",
+    "84": "vietnam",
+    "+84": "vietnam",
+    "263": "zimbabwe",
+    "+263": "zimbabwe",
+    "48": "poland",
+    "+48": "poland",
+    "41": "switzerland",
+    "+41": "switzerland",
+    "1868": "trinidad",
+    "+1868": "trinidad",
+    "383": "kosovo",
+    "+383": "kosovo",
+    "597": "suriname",
+    "+597": "suriname",
+    "92": "pakistan",
+    "+92": "pakistan",
+    "43": "austria",
+    "+43": "austria",
+    "372": "estonia",
+    "+372": "estonia"
+  }
+}
