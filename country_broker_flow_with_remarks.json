@@ -36,11 +36,18 @@
     },
     "belgium": {
       "display_name": "Belgium",
-      "brokers": ["PUPrime", "Vantage/VT"]
+      "brokers": [
+        "PUPrime",
+        "Vantage/VT"
+      ]
     },
     "bermuda": {
       "display_name": "Bermuda",
-      "brokers": ["Axi", "PUPrime", "Star Trader"],
+      "brokers": [
+        "Axi",
+        "PUPrime",
+        "Star Trader"
+      ],
       "last_updated": "28th April 2025"
     },
     "brunei": {
@@ -370,7 +377,7 @@
     "nigeria": {
       "display_name": "Nigeria",
       "brokers": [
-        "Axi"
+        "Axi",
         "PUPrime",
         "HFM"
       ],
@@ -389,7 +396,10 @@
     },
     "oman": {
       "display_name": "Oman",
-      "brokers": ["Ava", "PUPrime"],
+      "brokers": [
+        "Ava",
+        "PUPrime"
+      ],
       "last_updated": "9th December 2024"
     },
     "philippines": {
