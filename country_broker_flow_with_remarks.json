@@ -6,16 +6,16 @@
         "PUPrime",
         "VT Markets"
       ],
-      "last_updated": "2025-10-04"
+      "last_updated": "10th April 2025"
     },
     "australia": {
       "display_name": "Australia",
       "brokers": [
         "Ava",
         "Axi",
-        "Star Trader"
+        "Bullwaves"
       ],
-      "last_updated": "2025-10-04",
+      "last_updated": "10th April 2025",
       "remarks": "Australia can go Axi after Ava"
     },
     "bahamas": {
@@ -24,7 +24,7 @@
         "Ava",
         "PUPrime"
       ],
-      "last_updated": "2025-06-05"
+      "last_updated": "6th May 2025"
     },
     "bahrain": {
       "display_name": "Bahrain",
@@ -32,7 +32,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2025"
     },
     "belgium": {
       "display_name": "Belgium",
@@ -41,14 +41,14 @@
         "Vantage/VT"
       ]
     },
-    "bermuda": {
+"bermuda": {
       "display_name": "Bermuda",
       "brokers": [
         "Axi",
         "PUPrime",
         "Star Trader"
       ],
-      "last_updated": "2025-04-28"
+      "last_updated": "28th April 2025"
     },
     "brunei": {
       "display_name": "Brunei",
@@ -58,7 +58,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12"
+      "last_updated": "4th December 2024"
     },
     "cambodia": {
       "display_name": "Cambodia",
@@ -69,7 +69,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12"
+      "last_updated": "4th December 2024"
     },
     "cameroon": {
       "display_name": "Cameroon",
@@ -77,7 +77,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "canada (non ontario)": {
       "display_name": "Canada (NON Ontario)",
@@ -85,7 +85,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2024-11-30"
+      "last_updated": "30th November 2024"
     },
     "canada (ontario)": {
       "display_name": "Canada (Ontario)",
@@ -93,7 +93,7 @@
         "PUPrime",
         "VT Markets"
       ],
-      "last_updated": "2025-07-31"
+      "last_updated": "31st July 2025"
     },
     "canada (rare case: client wants regulated broker)": {
       "display_name": "Canada (Rare Case: Client wants regulated broker)",
@@ -102,7 +102,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-11-30"
+      "last_updated": "30th November 2024"
     },
     "czech republic": {
       "display_name": "Czech Republic",
@@ -111,7 +111,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-09-12"
+      "last_updated": "9th December 2024"
     },
     "denmark": {
       "display_name": "Denmark",
@@ -121,7 +121,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12"
+      "last_updated": "4th December 2024"
     },
     "egypt (africa)": {
       "display_name": "Egypt (Africa)",
@@ -132,7 +132,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12"
+      "last_updated": "2nd December 2024"
     },
     "ethiopia": {
       "display_name": "Ethiopia",
@@ -141,7 +141,7 @@
         "Axi",
         "Vantage"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "france (europe)": {
       "display_name": "France (Europe)",
@@ -150,7 +150,7 @@
         "PUPrime",
         "HFM"
       ],
-      "last_updated": "2024-11-30"
+      "last_updated": "30th November 2024"
     },
     "germany": {
       "display_name": "Germany",
@@ -158,7 +158,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2025-02-20"
+      "last_updated": "20th February 2025"
     },
     "ghana": {
       "display_name": "Ghana",
@@ -174,7 +174,7 @@
       "brokers": [
         "PUPrime"
       ],
-      "last_updated": "2025-02-17"
+      "last_updated": "17th February 2025"
     },
     "guyana": {
       "display_name": "Guyana",
@@ -183,7 +183,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-12-23"
+      "last_updated": "23rd December 2024"
     },
     "hong kong": {
       "display_name": "Hong Kong",
@@ -194,7 +194,7 @@
         "HFM (Last Resort)",
         "Vantage/VT"
       ],
-      "last_updated": "2024-11-30"
+      "last_updated": "30th November 2024"
     },
     "india": {
       "display_name": "India",
@@ -203,7 +203,7 @@
         "Vantage/VT",
         "HFM"
       ],
-      "last_updated": "2025-04-30",
+      "last_updated": "30th April 2025",
       "remarks": "PU - Have Bonus | If HFM, can go PU"
     },
     "indonesia": {
@@ -213,7 +213,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12"
+      "last_updated": "2nd December 2024"
     },
     "ireland": {
       "display_name": "Ireland",
@@ -221,7 +221,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "israel": {
       "display_name": "Israel",
@@ -237,7 +237,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "jamaica": {
       "display_name": "Jamaica",
@@ -245,7 +245,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2025-04-29"
+      "last_updated": "29th April 2025"
     },
     "japan": {
       "display_name": "Japan",
@@ -253,7 +253,7 @@
         "PUPrime",
         "VT Markets"
       ],
-      "last_updated": "2024-09-12"
+      "last_updated": "9th December 2024"
     },
     "jordan": {
       "display_name": "Jordan",
@@ -261,7 +261,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "kenya": {
       "display_name": "Kenya",
@@ -280,7 +280,7 @@
         "Axi",
         "Vantage/VT"
       ],
-      "last_updated": "2024-12-17"
+      "last_updated": "17th December 2024"
     },
     "malaysia": {
       "display_name": "Malaysia",
@@ -290,7 +290,7 @@
         "Vantage/VT",
         "HFM"
       ],
-      "last_updated": "2025-05-13",
+      "last_updated": "13th May 2025",
       "remarks": "VT - No bonus"
     },
     "malaysia (pj)": {
@@ -301,7 +301,7 @@
         "VT Markets",
         "HFM"
       ],
-      "last_updated": "2025-05-13",
+      "last_updated": "13th May 2025",
       "remarks": "VT - No bonus"
     },
     "malaysia (selangor seri kembangan)": {
@@ -312,7 +312,7 @@
         "VT Markets",
         "HFM"
       ],
-      "last_updated": "2025-05-13",
+      "last_updated": "13th May 2025",
       "remarks": "VT - No bonus"
     },
     "maldives": {
@@ -322,7 +322,7 @@
         "PUPrime",
         "VT Markets"
       ],
-      "last_updated": "2025-03-06"
+      "last_updated": "3rd June 2025"
     },
     "mali": {
       "display_name": "Mali",
@@ -332,7 +332,7 @@
         "PUPrime",
         "HFM"
       ],
-      "last_updated": "2024-09-12"
+      "last_updated": "9th December 2024"
     },
     "mexico": {
       "display_name": "Mexico",
@@ -340,7 +340,7 @@
         "Ava",
         "PUPrime"
       ],
-      "last_updated": "2025-04-30"
+      "last_updated": "30th April 2025"
     },
     "morocco": {
       "display_name": "Morocco",
@@ -348,14 +348,14 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "mozanbique": {
       "display_name": "Mozanbique",
       "brokers": [
         "Axi"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "netherlands": {
       "display_name": "Netherlands",
@@ -364,7 +364,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2025-12-06"
+      "last_updated": "12th June 2025"
     },
     "new zealand": {
       "display_name": "New Zealand",
@@ -372,7 +372,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12"
+      "last_updated": "2nd December 2024"
     },
     "nigeria": {
       "display_name": "Nigeria",
@@ -381,7 +381,7 @@
         "PUPrime",
         "HFM"
       ],
-      "last_updated": "2024-02-12",
+      "last_updated": "2nd December 2024",
       "remarks": "No more perfect money for AVA"
     },
     "norway": {
@@ -392,7 +392,7 @@
         "Axi",
         "Vantage/VT"
       ],
-      "last_updated": "2024-10-12"
+      "last_updated": "10th December 2024"
     },
     "oman": {
       "display_name": "Oman",
@@ -400,6 +400,7 @@
         "Ava",
         "PUPrime"
       ]
+      "last_updated": "9th December 2024"
     },
     "philippines": {
       "display_name": "Philippines",
@@ -408,7 +409,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2025-11-13"
+      "last_updated": "13th November 2025"
     },
     "portugal": {
       "display_name": "Portugal",
@@ -416,7 +417,7 @@
         "PUPrime",
         "Vantage"
       ],
-      "last_updated": "2025-10-05"
+      "last_updated": "10th May 2025"
     },
     "qatar": {
       "display_name": "Qatar",
@@ -435,7 +436,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12"
+      "last_updated": "4th December 2024"
     },
     "singapore": {
       "display_name": "Singapore",
@@ -444,7 +445,7 @@
         "Axi",
         "HFM"
       ],
-      "last_updated": "2024-11-30"
+      "last_updated": "30th November 2024"
     },
     "slovakia": {
       "display_name": "Slovakia",
@@ -470,7 +471,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12"
+      "last_updated": "2nd December 2024"
     },
     "sri lanka": {
       "display_name": "Sri Lanka",
@@ -478,7 +479,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2024-06-04",
+      "last_updated": "6th April 2024",
       "remarks": "PU No bonus"
     },
     "sweden": {
@@ -490,7 +491,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12"
+      "last_updated": "2nd December 2024"
     },
     "taiwan": {
       "display_name": "Taiwan",
@@ -498,7 +499,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2024-01-12"
+      "last_updated": "1st December 2024"
     },
     "tanzania": {
       "display_name": "Tanzania",
@@ -508,7 +509,7 @@
         "Axi",
         "Vantage"
       ],
-      "last_updated": "2025-04-30"
+      "last_updated": "30th April 2025"
     },
     "thailand": {
       "display_name": "Thailand",
@@ -517,7 +518,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12",
+      "last_updated": "2nd December 2024",
       "remarks": "PU No bonus"
     },
     "turkey": {
@@ -526,7 +527,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2025-11-04"
+      "last_updated": "11th April 2025"
     },
     "uganda": {
       "display_name": "Uganda",
@@ -547,7 +548,7 @@
         "HFM",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12"
+      "last_updated": "4th December 2024"
     },
     "united kingdom": {
       "display_name": "United Kingdom",
@@ -555,7 +556,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-04-12",
+      "last_updated": "4th December 2024",
       "remarks": "NOTE UK NO BONUS FOR AXI"
     },
     "vietnam": {
@@ -565,7 +566,7 @@
         "PUPrime",
         "Vantage/VT"
       ],
-      "last_updated": "2024-02-12",
+      "last_updated": "2nd December 2024",
       "remarks": "PU No bonus"
     },
     "zimbabwe": {
@@ -575,7 +576,7 @@
         "Axi",
         "Vantage/VT"
       ],
-      "last_updated": "2024-06-04"
+      "last_updated": "6th April 2024"
     },
     "poland": {
       "display_name": "Poland",
@@ -584,7 +585,7 @@
         "PUPrime",
         "Vantage"
       ],
-      "last_updated": "2025-05-13"
+      "last_updated": "13th May 2025"
     },
     "switzerland": {
       "display_name": "Switzerland",
@@ -592,7 +593,7 @@
         "Ava",
         "PUPrime"
       ],
-      "last_updated": "2025-05-20"
+      "last_updated": "20th May 2025"
     },
     "trinidad": {
       "display_name": "Trinidad",
@@ -600,7 +601,7 @@
         "Ava",
         "PUPrime"
       ],
-      "last_updated": "2025-05-20"
+      "last_updated": "20th May 2025"
     },
     "kosovo": {
       "display_name": "Kosovo",
@@ -608,7 +609,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2025-05-19"
+      "last_updated": "19th May 2025"
     },
     "suriname": {
       "display_name": "Suriname",
@@ -616,7 +617,7 @@
         "PUPrime",
         "Axi"
       ],
-      "last_updated": "2025-05-19"
+      "last_updated": "19th May 2025"
     },
     "pakistan": {
       "display_name": "Pakistan",
@@ -624,7 +625,7 @@
         "Axi",
         "PUPrime"
       ],
-      "last_updated": "2025-05-21"
+      "last_updated": "21st May 2025"
     },
     "austria": {
       "display_name": "Austria",
@@ -633,7 +634,7 @@
         "Axi",
         "Vantage/VT"
       ],
-      "last_updated": "2025-05-21"
+      "last_updated": "21st May 2025"
     },
     "estonia": {
       "display_name": "Estonia",
