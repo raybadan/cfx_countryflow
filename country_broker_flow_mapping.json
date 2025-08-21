@@ -1,0 +1,1073 @@
+{
+  "by_country": {
+    "afghanistan": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "australia": [
+      "Ava",
+      "Axi",
+      "Star Trader"
+    ],
+    "bahamas": [
+      "Ava",
+      "PUPrime"
+    ],
+    "bahrain": [
+      "Axi",
+      "PUPrime"
+    ],
+    "belgium": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "bermuda": [
+      "Axi",
+      "PUPrime",
+      "Star Trader"
+    ],
+    "brunei": [
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "cambodia": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "cameroon": [
+      "PUPrime",
+      "Axi"
+    ],
+    "canada": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "canada (non ontario)": [
+      "Axi",
+      "PUPrime"
+    ],
+    "canada (ontario)": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "canada (rare case: client wants regulated broker)": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "czech republic": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "denmark": [
+      "Ava",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "egypt": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "egypt (africa)": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "ethiopia": [
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "france": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "france (europe)": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "germany": [
+      "Axi",
+      "PUPrime"
+    ],
+    "ghana": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "greece": [
+      "PUPrime"
+    ],
+    "guyana": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "hong kong": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM (Last Resort)",
+      "Vantage/VT"
+    ],
+    "india": [
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "indonesia": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "ireland": [
+      "Axi",
+      "PUPrime"
+    ],
+    "israel": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "italy": [
+      "Ava",
+      "Axi",
+      "PUPrime"
+    ],
+    "jamaica": [
+      "PUPrime",
+      "Axi"
+    ],
+    "japan": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "jordan": [
+      "PUPrime",
+      "Axi"
+    ],
+    "kenya": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "kuwait": [
+      "Ava",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "malaysia": [
+      "Ava",
+      "PUPrime",
+      "VT Markets",
+      "HFM"
+    ],
+    "malaysia (pj)": [
+      "Ava",
+      "PUPrime",
+      "VT Markets",
+      "HFM"
+    ],
+    "malaysia (selangor seri kembangan)": [
+      "Ava",
+      "PUPrime",
+      "VT Markets",
+      "HFM"
+    ],
+    "maldives": [
+      "Ava",
+      "PUPrime",
+      "VT Markets"
+    ],
+    "mali": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "mexico": [
+      "Ava",
+      "PUPrime"
+    ],
+    "morocco": [
+      "PUPrime",
+      "Axi"
+    ],
+    "mozanbique": [
+      "Axi"
+    ],
+    "netherlands": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "new zealand": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "nigeria": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "norway": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "oman": [
+      "Ava",
+      "PUPrime"
+    ],
+    "philippines": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "portugal": [
+      "PUPrime",
+      "Vantage"
+    ],
+    "qatar": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "saudi arabia": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "singapore": [
+      "Ava",
+      "Axi",
+      "HFM"
+    ],
+    "slovakia": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "somalia": [
+      "Ava",
+      "PUPrime"
+    ],
+    "south africa": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "sri lanka": [
+      "PUPrime",
+      "Axi"
+    ],
+    "sweden": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "taiwan": [
+      "Axi",
+      "PUPrime"
+    ],
+    "tanzania": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "thailand": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "turkey": [
+      "Axi",
+      "PUPrime"
+    ],
+    "uganda": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "united arab emirates": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "united kingdom": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "vietnam": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "zimbabwe": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "poland": [
+      "Axi",
+      "PUPrime",
+      "Vantage"
+    ],
+    "switzerland": [
+      "Ava",
+      "PUPrime"
+    ],
+    "trinidad": [
+      "Ava",
+      "PUPrime"
+    ],
+    "kosovo": [
+      "PUPrime",
+      "Axi"
+    ],
+    "suriname": [
+      "PUPrime",
+      "Axi"
+    ],
+    "pakistan": [
+      "Axi",
+      "PUPrime"
+    ],
+    "austria": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "estonia": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "lithuania": [
+      "PUPrime",
+      "Vantage"
+    ],
+    "cyprus": [
+      "Ava",
+      "PUPrime",
+      "Vantage"
+    ]
+  },
+  "by_code": {
+    "93": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "+93": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "61": [
+      "Ava",
+      "Axi",
+      "Star Trader"
+    ],
+    "+61": [
+      "Ava",
+      "Axi",
+      "Star Trader"
+    ],
+    "1242": [
+      "Ava",
+      "PUPrime"
+    ],
+    "+1242": [
+      "Ava",
+      "PUPrime"
+    ],
+    "973": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+973": [
+      "Axi",
+      "PUPrime"
+    ],
+    "32": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+32": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "1441": [
+      "Axi",
+      "PUPrime",
+      "Star Trader"
+    ],
+    "+1441": [
+      "Axi",
+      "PUPrime",
+      "Star Trader"
+    ],
+    "673": [
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+673": [
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "855": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+855": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "237": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+237": [
+      "PUPrime",
+      "Axi"
+    ],
+    "1": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+1": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "420": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+420": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "45": [
+      "Ava",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+45": [
+      "Ava",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "20": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+20": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "251": [
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "+251": [
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "33": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "+33": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "49": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+49": [
+      "Axi",
+      "PUPrime"
+    ],
+    "233": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "+233": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "30": [
+      "PUPrime"
+    ],
+    "+30": [
+      "PUPrime"
+    ],
+    "592": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+592": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "852": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM (Last Resort)",
+      "Vantage/VT"
+    ],
+    "+852": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM (Last Resort)",
+      "Vantage/VT"
+    ],
+    "91": [
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "+91": [
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "62": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+62": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "353": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+353": [
+      "Axi",
+      "PUPrime"
+    ],
+    "972": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+972": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "39": [
+      "Ava",
+      "Axi",
+      "PUPrime"
+    ],
+    "+39": [
+      "Ava",
+      "Axi",
+      "PUPrime"
+    ],
+    "1876": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+1876": [
+      "PUPrime",
+      "Axi"
+    ],
+    "81": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "+81": [
+      "PUPrime",
+      "VT Markets"
+    ],
+    "962": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+962": [
+      "PUPrime",
+      "Axi"
+    ],
+    "254": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "+254": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "Vantage/VT",
+      "HFM"
+    ],
+    "965": [
+      "Ava",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "+965": [
+      "Ava",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "60": [
+      "Ava",
+      "PUPrime",
+      "VT Markets",
+      "HFM"
+    ],
+    "+60": [
+      "Ava",
+      "PUPrime",
+      "VT Markets",
+      "HFM"
+    ],
+    "960": [
+      "Ava",
+      "PUPrime",
+      "VT Markets"
+    ],
+    "+960": [
+      "Ava",
+      "PUPrime",
+      "VT Markets"
+    ],
+    "223": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "+223": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "52": [
+      "Ava",
+      "PUPrime"
+    ],
+    "+52": [
+      "Ava",
+      "PUPrime"
+    ],
+    "212": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+212": [
+      "PUPrime",
+      "Axi"
+    ],
+    "258": [
+      "Axi"
+    ],
+    "+258": [
+      "Axi"
+    ],
+    "31": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+31": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "64": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+64": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "234": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "+234": [
+      "Axi",
+      "PUPrime",
+      "HFM"
+    ],
+    "47": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "+47": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "968": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+968": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "63": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+63": [
+      "Ava",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "351": [
+      "PUPrime",
+      "Vantage"
+    ],
+    "+351": [
+      "PUPrime",
+      "Vantage"
+    ],
+    "974": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+974": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "966": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+966": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "65": [
+      "Ava",
+      "Axi",
+      "HFM"
+    ],
+    "+65": [
+      "Ava",
+      "Axi",
+      "HFM"
+    ],
+    "421": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+421": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "252": [
+      "Ava",
+      "PUPrime"
+    ],
+    "+252": [
+      "Ava",
+      "PUPrime"
+    ],
+    "27": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+27": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "94": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+94": [
+      "PUPrime",
+      "Axi"
+    ],
+    "46": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+46": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "886": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+886": [
+      "Axi",
+      "PUPrime"
+    ],
+    "255": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "+255": [
+      "Ava",
+      "PUPrime",
+      "Axi",
+      "Vantage"
+    ],
+    "66": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+66": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "90": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+90": [
+      "Axi",
+      "PUPrime"
+    ],
+    "256": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+256": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "971": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "+971": [
+      "Ava",
+      "Axi",
+      "PUPrime",
+      "HFM",
+      "Vantage/VT"
+    ],
+    "44": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+44": [
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "84": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+84": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "263": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "+263": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "48": [
+      "Axi",
+      "PUPrime",
+      "Vantage"
+    ],
+    "+48": [
+      "Axi",
+      "PUPrime",
+      "Vantage"
+    ],
+    "41": [
+      "Ava",
+      "PUPrime"
+    ],
+    "+41": [
+      "Ava",
+      "PUPrime"
+    ],
+    "1868": [
+      "Ava",
+      "PUPrime"
+    ],
+    "+1868": [
+      "Ava",
+      "PUPrime"
+    ],
+    "383": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+383": [
+      "PUPrime",
+      "Axi"
+    ],
+    "597": [
+      "PUPrime",
+      "Axi"
+    ],
+    "+597": [
+      "PUPrime",
+      "Axi"
+    ],
+    "92": [
+      "Axi",
+      "PUPrime"
+    ],
+    "+92": [
+      "Axi",
+      "PUPrime"
+    ],
+    "43": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "+43": [
+      "PUPrime",
+      "Axi",
+      "Vantage/VT"
+    ],
+    "372": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ],
+    "+372": [
+      "Axi",
+      "PUPrime",
+      "Vantage/VT"
+    ]
+  },
+  "meta": {
+    "source_sheet": "Sheet1",
+    "broker_columns": [
+      "Initial Broker",
+      "Next Broker",
+      "Next Broker.1",
+      "Next Broker.2",
+      "Unnamed: 6"
+    ]
+  }
+}
